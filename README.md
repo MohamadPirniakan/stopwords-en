@@ -1,13 +1,13 @@
-### stopwords-en__
-Stopwords are common words in a language that do not carry significant meaning and are often removed during natural language processing tasks.__
+### stopwords-en<br />
+Stopwords are common words in a language that do not carry significant meaning and are often removed during natural language processing tasks.<br />
 
-Features:__
-Removes common English stopwords from text data.__
-Enhances the quality of text preprocessing for NLP tasks.__
-Can be seamlessly integrated into existing Python projects.__
-Offers improved accuracy and efficiency in text analysis workflows.__
+Features:<br />
+Removes common English stopwords from text data.<br />
+Enhances the quality of text preprocessing for NLP tasks.<br />
+Can be seamlessly integrated into existing Python projects.<br />
+Offers improved accuracy and efficiency in text analysis workflows.<br />
 
-The code snippet below was utilized as input:__
-text = wikipedia.summary("New York Stadium")__
-This code fetches a summary of information about the 'New York Stadium' from Wikipedia.__
+The code snippet below was utilized as input:<br />
+text = wikipedia.summary("New York Stadium")<br />
+This code fetches a summary of information about the 'New York Stadium' from Wikipedia.<br />
 
